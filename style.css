@@ -1,0 +1,24 @@
+video {
+    height: 400px;
+    width: 550px;
+}
+
+audio {
+    height: 120px;
+    width: 600px;
+}
+
+#sectionVideo #sectionAudio{
+background-color: #00ffff;
+padding: 75px 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#sectionVideo {
+    background-color: #00ffff;
+    
+}
+#sectionAudio {
+    background-color: #3180a0;
+}
